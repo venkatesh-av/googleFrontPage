@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.searchInput {
+  color: #475569;
+  font-family: 'Roboto';
+  margin: 0px;
+}
+
+.history_item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+}
+.arrow-edit {
+  height: 16px;
+  width: 16px;
+}
